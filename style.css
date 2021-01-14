@@ -1,0 +1,89 @@
+*{
+    font-family: 'Bebas Neue', Bold;
+}
+header{
+  background-color: #FFFBF0;
+}
+.header-text{
+    color: #3C3C3C;
+    font-size: 80px;
+}
+span{
+    color: #FABE4C;
+    
+}
+ul li a{
+    font-family: 'Roboto';
+    font-size: 16px;
+    color: #3C3C3C;
+}
+h1{
+    font-family:  'Bebas Neue';
+    color: #363958 ;
+}
+h2{
+    color: #FABE4C;
+    font-size: 36px;
+}
+h5{
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    color: #363958;
+}
+p{
+    font-family: 'Roboto';
+    color: #3E3E3E;
+    font-size: 16px;
+}
+
+.testButton1
+{
+    font-size:100%;
+    height:50px;
+    width: 160px;
+    border: none;
+    border-radius: 10PX;
+    background-color: #a4bc46;
+
+}
+.testButton1 img
+{
+    height:70%;
+    padding: 5px;
+    vertical-align:middle;
+}
+.card-card{
+    border: none;
+    border-radius: 20px;
+}
+.card-imag{
+    height: 400px;
+    background-color: #F1F1F1;
+    border-radius: 10px;
+}
+.crd-ftr{
+    margin-top: -50px;
+    border: none;
+    background-color: white;
+}
+.last-img{
+    height: 82px;
+    width: 78px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.last-section {
+border: none;
+border-radius: 20px;
+}
+h4{
+    margin-top: 10px;
+    font-size: 24px;
+    margin-left: 60px;
+    color: #363958;
+    font-family: 'Roboto', Bold;
+}
+.section-p{
+    font-size: 16px;
+    margin-left: 60px;
+}
